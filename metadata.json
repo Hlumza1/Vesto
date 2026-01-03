@@ -1,0 +1,7 @@
+{
+  "name": "Apex Structures AI",
+  "description": "A premium construction and development website featuring an AI-powered project estimator and modern portfolio management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
